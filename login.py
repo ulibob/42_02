@@ -1,3 +1,7 @@
-num = 100 # zhangsan
+num1 = 100 # zhangsan
 
-num = 200 # manager
+num2 = 200 # manager
+
+num3 = 300 #
+
+num4 = 400 #
